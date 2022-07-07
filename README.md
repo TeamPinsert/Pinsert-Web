@@ -15,22 +15,13 @@ GPS를 기반으로 주변의 존재하는 게시물들을 위도 경도에 따�
    
 🗂 src
 
-    - api 🗂
-
-    - config 🗂
-
-    - Loaders 🗂
+    - pages 🗂
+    
+    - routes 🗂
     
     - middleware 🗂
-
-    - models 🗂
-
-    - service 🗂
    
-    - controller 🗂
-   
-
-indes.ts
+app.js
    
 .env
    
