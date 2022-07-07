@@ -1,5 +1,6 @@
 # Pinsert
-GPS 기반의 AR SNS
+
+GPS를 기반으로 주변의 존재하는 게시물들을 위도 경도에 따라 AR 컨텐츠로 표현하는 SNS입니다.
 
 
 ## 💻 Coding Convention   
